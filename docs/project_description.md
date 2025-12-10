@@ -1,4 +1,4 @@
-# Projects description
+# Solution Description
 
 ### MarQuesTT.Core
 
@@ -18,11 +18,3 @@ It includes:
 - Protocol constants
 
 More about it you can read in [specification](https://docs.oasis-open.org/mqtt/mqtt/v5.0/mqtt-v5.0.html) for MQTT.
-
-### MarQuesTT.Broker
-
-### MarQuesTT.Network
-
-### MarQuesTT.Storage
-
-### MarQuesTT.Security
